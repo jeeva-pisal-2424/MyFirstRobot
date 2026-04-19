@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge RPA interviewReady QnA - Google Docs and",
+  "Type": "Screen",
+  "Id": "nfynKHuuy0yi-NT9BRnpXQ",
+  "Reference": "Le3y8PR9MUqo1fXPGwwFKw/nfynKHuuy0yi-NT9BRnpXQ",
+  "ParentRef": "Le3y8PR9MUqo1fXPGwwFKw/VhuXTVKaYEOdvFiDL2GmTw",
+  "Created": "2025-08-12T07:24:52.2832407Z",
+  "Updated": "2025-08-12T07:24:52.2832407Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

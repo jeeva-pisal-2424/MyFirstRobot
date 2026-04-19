@@ -1,0 +1,14 @@
+﻿{
+  "Name": "FW Campaign Push Help D…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "AiQ3zXQAX0GB4yNP0ZYNyw",
+  "Reference": "Le3y8PR9MUqo1fXPGwwFKw/AiQ3zXQAX0GB4yNP0ZYNyw",
+  "ParentRef": "Le3y8PR9MUqo1fXPGwwFKw/nfynKHuuy0yi-NT9BRnpXQ",
+  "Created": "2025-08-12T07:26:57.9192575Z",
+  "Updated": "2025-08-12T07:26:57.9192575Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

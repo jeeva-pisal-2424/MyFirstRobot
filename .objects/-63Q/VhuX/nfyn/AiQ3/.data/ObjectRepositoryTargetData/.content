@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nyXAfrX_r0iHdBpENyiBeg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/document/d/1WcfuUHSVi9I2rrNJH0AP2MYxNUqP4n9p/edit" DesignTimeRectangle="92, 449, 207, 24" DesignTimeScaleFactor="1.100000023841858" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='chapter-label-content' tag='DIV' type='' aaname='FW Campaign Push Help Document.docx' check:innerText='FW Campaign Push Help Document.docx' /&gt;" Guid="4ef0348b-4389-4a2e-b8e0-2574673ef14c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='FW Campaign Push Help Document.docx - Google Docs' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a762add6e48c2bd37470556e8de2bc3e.png" xmlns="">0AEV6Jn_rHEu7aFIAhEXOcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
